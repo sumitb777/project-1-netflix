@@ -3,6 +3,12 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.658),rgba(0, 0, 0, 0.664)),url("images/netflix-header.jpg");
     height: 88vh;
 }
+@media  (min-width: 900px) {
+  .hhh,.feature-h{
+    font-size: 3rem !important;
+    font-weight:900;
+  }
+}  
 .img-l{
     height: 35px;    
 }
@@ -19,7 +25,7 @@ hr{
     height: 100%;
     max-width: 70%;
     max-height: 62%;
-    left: 14.7% !important;
+    left: 13% !important;
     top: 17.4% !important;
 }
 .card1{
